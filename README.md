@@ -4,6 +4,13 @@
 SeekIncome is a data-driven investor dashboard built to analyze company-level data and present meaningful insights in a simple, interactive format.
 The project simulates how an investor explores market trends, company performance, and key financial indicators using data, visualization, and scalable architecture.
 
+As part of the SeekIncome project, I developed a Power BI dashboard to analyse ROI, company performance, and risk-return relationships using financial market data.
+![Investor understanding](Investor.png)
+
+
+
+
+
 # Features
 - Interactive dashboard built using Streamlit  
 - Company-level financial analysis  
